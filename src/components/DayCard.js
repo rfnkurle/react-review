@@ -1,9 +1,10 @@
 import React from "react";
+import SearchBar from "./components/SearchBar"
 
 
-const DayCard= props => {
+const DayCard = props => {
     return(
-        <h2>SearchBar</h2>
+        <p>DayCard</p>
     )
 }
 
